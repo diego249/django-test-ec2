@@ -1,0 +1,1 @@
+# django-test-ec2
